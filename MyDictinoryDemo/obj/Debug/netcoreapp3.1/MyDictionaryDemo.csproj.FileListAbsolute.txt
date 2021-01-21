@@ -1,0 +1,13 @@
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.exe
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.deps.json
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.runtimeconfig.json
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.runtimeconfig.dev.json
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.dll
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.pdb
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.csprojAssemblyReference.cache
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.AssemblyInfo.cs
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.dll
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.pdb
+C:\Users\BEGÜM\source\repos\MyDictinoryDemo\MyDictinoryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.genruntimeconfig.cache
